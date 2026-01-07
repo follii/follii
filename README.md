@@ -38,13 +38,13 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=follii&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=follii&theme=midnight-purple&layout=compact&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=follijulio&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=follijulio&theme=midnight-purple&layout=compact&hide_border=true" />
 </div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=follii&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=follijulio&theme=midnight-purple&hide_border=true" />
 
 ---
 
